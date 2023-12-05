@@ -35,6 +35,7 @@ function Product() {
   return (
     <div className="productlist">
       <Navbar />
+      
       <div className="titel">
         <ul>
           <li style={{ width: "20%" }}>

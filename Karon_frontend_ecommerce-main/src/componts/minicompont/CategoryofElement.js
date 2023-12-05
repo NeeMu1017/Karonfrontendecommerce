@@ -5,6 +5,8 @@ import side4 from "../../image/slidewindows/slidewin4.jpg";
 import side5 from "../../image/slidewindows/slidewin5.jpg";
 import side6 from "../../image/slidewindows/slidwin6.jpg";
 import side7 from "../../image/slidewindows/slidewin7.jpg";
+import side8 from "../../image/slidewindows/slidewin8.jpg";
+import side9 from "../../image/slidewindows/slidewin9.jpg";
 
 const Mobile_Computer = [
   "mobilephone",
@@ -138,4 +140,13 @@ export const sidewin =[
     id:7,
     name:side7,
   },
+  {
+    id:8,
+    name:side8
+  },
+  {
+    id:9,
+    name:side9
+  }
+
 ]
